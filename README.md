@@ -6,7 +6,7 @@
 👩‍💻 Estudante de Ciências de Dados / Data Science Student
 
 
-⚖️ Graduada em Direito | 📊 8 anos de experiência na área de business / ⚖️ Graduated in Law | 📊 8 years of experience in the business area
+⚖️ Graduada em Direito | 📊 8 anos de experiência na Área de Business / ⚖️ Graduated in Law | 📊 8 years of experience in the Business Area
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
