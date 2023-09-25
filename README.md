@@ -1,4 +1,4 @@
-### Ola | Hi there 👋
+### Olá | Hi there 👋
 
 🙂 Sou Bruna / I'm Bruna
 
